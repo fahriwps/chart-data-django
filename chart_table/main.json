@@ -1,0 +1,47 @@
+[{
+		"model": "main.parkir",
+		"pk": 4,
+		"fields": {
+			"id_card": "dummy1",
+			"gate": 0,
+			"status": 0,
+			"tanggal": "2019-02-01",
+			"jam": "16:24:03",
+			"biaya": null
+		}
+	},
+	{
+		"model": "main.parkir",
+		"pk": 5,
+		"fields": {
+			"id_card": "dummy2",
+			"gate": 0,
+			"status": 1,
+			"tanggal": "2019-02-01",
+			"jam": "16:24:12",
+			"biaya": 3000
+		}
+	}, {
+		"model": "main.parkir",
+		"pk": 8,
+		"fields": {
+			"id_card": "dummy3",
+			"gate": 1,
+			"status": 0,
+			"tanggal": "2018-12-20",
+			"jam": "16:25:08",
+			"biaya": null
+		}
+	}, {
+		"model": "main.parkir",
+		"pk": 9,
+		"fields": {
+			"id_card": "dummy4",
+			"gate": 1,
+			"status": 1,
+			"tanggal": "2018-12-20",
+			"jam": "16:25:24",
+			"biaya": 5000
+		}
+	}
+]
